@@ -2,6 +2,6 @@
 
 ===
 
-![photo](.img/photo.jpg)
+![photo](./img/photo.jpg =100x100)
 
 ===
