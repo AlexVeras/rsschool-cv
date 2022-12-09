@@ -1,7 +1,7 @@
 # Veras Aliaksandr
 
-===
+***
 
-![photo](./img/photo.jpg =100x100)
+<img src="./img/photo.jpg" width="200">
 
-===
+***
